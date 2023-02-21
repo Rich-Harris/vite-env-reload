@@ -1,5 +1,7 @@
 # vite-env-reload
 
+Repro for https://github.com/vitejs/vite/issues/12127.
+
 ```
 git clone git@github.com:Rich-Harris/vite-env-reload
 cd vite-env-reload
